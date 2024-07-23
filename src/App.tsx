@@ -5,8 +5,7 @@ function App() {
 
   return (
     <>
-    <p className='text-red-900'>Hame</p>
-    <Nav></Nav>
+    <Nav/>
     </>
   )
 }
